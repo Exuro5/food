@@ -1,0 +1,8 @@
+install git
+
+git init - will create a 'git thing' for it
+
+this gives you the ability to 'save a working version' commit all the files!
+
+(cheatsheet = git add . -> git commit -m "my message")
+
